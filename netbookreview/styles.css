@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #2d3e49;
+  --secondari-color: #bfb9e8;
+  --accent-normal: #4dff3f;
+  --accent-dark: #39c471;
+  --text-dark: #212121;
+}
+footer {
+  color: blue;
+}
